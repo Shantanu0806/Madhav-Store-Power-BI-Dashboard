@@ -1,2 +1,4 @@
 # Madhav-Store-Power-BI-Dashboard
-Tracking the sales of Madhav store
+This is Power BI end to end Project.
+Tracking the sales of Madhav store 
+
